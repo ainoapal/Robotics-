@@ -1,4 +1,4 @@
-# Robotics-project1
+# Robotics Project - Part 1
 
 ## Build files
 - catkin_make 
