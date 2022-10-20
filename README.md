@@ -1,4 +1,5 @@
 # Robotics Project - Part 1
+This repository contains the first part of the project done in 2021/2022 Robotics Course at Politecnico di Milano.
 
 ## Build files
 - catkin_make 
