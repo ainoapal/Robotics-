@@ -1,0 +1,5 @@
+float64 new_r
+int32 new_N
+---
+float64 old_r
+int32 old_N

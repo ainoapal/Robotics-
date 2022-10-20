@@ -1,0 +1,7 @@
+float64 new_posx
+float64 new_posy
+float64 new_theta
+---
+float64 old_posx
+float64 old_posy
+float64 old_theta
